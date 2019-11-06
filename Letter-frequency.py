@@ -1,3 +1,6 @@
+#Written by: Eunsoo Jang
+#Date: Sep 10, 2019
+
 import re
 import nltk
 from nltk.corpus import gutenberg
